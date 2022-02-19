@@ -73,4 +73,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Instructions
 
+Execute
+
+```
+npm run install
+```
+
 To change backend url: src/index.js
+
+I am using Apollo for GraphQL and MUI for layout 
+
+Developed by CARLOS ALEXANDER CHIRITO ROMERO
